@@ -1,7 +1,7 @@
 {
   "name": "sapling",
   "version": "0.0.1",
-  "description": "A lightweight CSS utility for quickly building responsive websites",
+  "description": "A lightweight CSS utility for building JAMstack sites",
   "main": "src/main.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,8 @@
     "framework",
     "responsive",
     "ui",
-    "sass"
+    "sass",
+    "jamstack"
   ],
   "author": "James C. Tucker",
   "license": "MIT"
