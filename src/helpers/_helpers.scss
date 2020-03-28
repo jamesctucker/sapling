@@ -1,9 +1,90 @@
-//  backgrounds
+// backgrounds
 
 // borders
 
 
 // flexbox
+
+.flex {
+    display: flex;
+}
+
+.fd-row {
+    flex-direction: row;
+}
+
+.fd-column {
+    flex-direction: column;
+}
+
+.fw {
+    flex-wrap: wrap;
+}
+
+.fw-nowrap {
+    flex-wrap: nowrap;
+}
+
+.fw-reverse {
+    flex-wrap: wrap-reverse;
+}
+
+.jc-center {
+    justify-content: center;
+} 
+
+.jc-right {
+    justify-content: right;
+}
+
+.jc-left {
+    justify-content: left;
+}
+
+.jc-start {
+    justify-content: start;
+}
+
+.jc-between {
+    justify-content: space-between
+}
+
+.jc-around {
+    justify-content: space-around
+}
+
+.jc-evenly {
+    justify-content: space-evenly
+}
+
+.jc-flex-start {
+    justify-content: flex-start;
+}
+
+.jc-flex-end {
+    justify-content: flex-end;
+}
+
+.ai-center {
+    align-items: center;
+}
+
+.ai-stretch {
+    align-items: stretch
+}
+
+.ai-start {
+    align-items: flex-start;
+}
+
+.ai-end {
+    align-items: flex-end;
+
+}   
+
+.ai-baseline {
+    align-items: baseline;
+}
 
 // spacing
 
