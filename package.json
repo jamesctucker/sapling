@@ -1,0 +1,19 @@
+{
+  "name": "sapling",
+  "version": "0.0.1",
+  "description": "A lightweight CSS utility for quickly building responsive websites",
+  "main": "src/main.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "framework",
+    "responsive",
+    "ui",
+    "sass"
+  ],
+  "author": "James C. Tucker",
+  "license": "MIT"
+}
